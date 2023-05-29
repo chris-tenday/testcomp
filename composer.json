@@ -1,0 +1,17 @@
+{
+    "name": "chris-tenday/testcomp",
+    "description": "\"Hello world\"",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "ChrisTenday\\Testcomp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Chris Tenday",
+            "email": "ctenday@gmail.com"
+        }
+    ],
+    "require": {}
+}
